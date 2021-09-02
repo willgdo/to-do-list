@@ -1,3 +1,3 @@
 # to-do-list
 
-# Page made for practice of JS
+## Page made for practice of JS
